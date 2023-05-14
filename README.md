@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=akskwha)](https://solved.ac/akskwha/)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=akskwha123)](https://solved.ac/akskwha123/)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ANDONGWOO)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=an dong woo)](https://github.com/anuraghazra/github-readme-stats)
