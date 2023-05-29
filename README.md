@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
  <div align=center>
 	
-  [![Hits]((https://github.com/ANDONGWOO))](https://hits.seeyoufarm.com) 
+  [![Hits]([(https://github.com/ANDONGWOO)])](https://hits.seeyoufarm.com) 
 	
   </div>
