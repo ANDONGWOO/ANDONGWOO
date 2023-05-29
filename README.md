@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=akskwha)](https://solved.ac/akskwha/)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=akskwha123)](https://solved.ac/akskwha123/)
+
+ <div align=center>
+	
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+	
+  </div>
