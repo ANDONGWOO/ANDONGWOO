@@ -22,3 +22,12 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FANDONGWOO&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 [ToyProject2](https://github.com/ANDONGWOO/ToyProject2).
+
+<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white">
+<img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"> 
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"> 
+<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/sqlite-003B57?style=flat&logo=sqlite&logoColor=white">
